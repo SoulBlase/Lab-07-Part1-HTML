@@ -13,3 +13,17 @@ body{
 p{
   font-size: 12px;
 }
+p{
+  text-decoration: line-through;
+}
+h2{
+  text-decoration: underline;
+}
+h1{
+  text-transform:uppercase;
+  margin: 20px;
+  padding: 40px;
+  border-width: 5px;
+  border-style: dashed;
+  border-color: red;
+}
