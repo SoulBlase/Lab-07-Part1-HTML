@@ -1,12 +1,10 @@
-p{
-  color: #0000FF;
+p, h2{
+  color: #006400;
 }
 h1{
   color: #888888;
 }
-h2{
-  color: #888888;
-}
+
 body{
   font-family: sans-serif;
 }
@@ -26,4 +24,12 @@ h1{
   border-width: 5px;
   border-style: dashed;
   border-color: red;
+}
+#intro{
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+}
+.spotlight{
+  background-color: #FEFE22;
 }
